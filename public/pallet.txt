@@ -1,0 +1,39 @@
+/* CSS HEX */
+ --mischka: #dcdce2;
+--bombay: #a9abae;
+--steel-gray: #20212f;
+--deluge: #8363a2;
+--mobster: #7d7587;
+--smoky: #675978;
+--corduroy: #5f6060;
+--scarpa-flow: #504f53;
+--mako: #434a54;
+--red: #fc0404;
+
+
+/* SCSS HEX */
+$mischka: #dcdce2;
+$bombay: #a9abae;
+$steel-gray: #20212f;
+$deluge: #8363a2;
+$mobster: #7d7587;
+$smoky: #675978;
+$corduroy: #5f6060;
+$scarpa-flow: #504f53;
+$mako: #434a54;
+$red: #fc0404;
+
+
+/* SCSS RGB */
+--mischka: rgba(220,220,226,1);
+--bombay: rgba(169,171,174,1);
+--steel-gray: rgba(32,33,47,1);
+--deluge: rgba(131,99,162,1);
+--mobster: rgba(125,117,135,1);
+--smoky: rgba(103,89,120,1);
+--corduroy: rgba(95,96,96,1);
+--scarpa-flow: rgba(80,79,83,1);
+--mako: rgba(67,74,84,1);
+--red: rgba(252,4,4,1);
+
+

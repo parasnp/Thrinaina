@@ -1,0 +1,29 @@
+.nav-bar {
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem;
+  }
+  
+  .nav-bar a {
+    text-decoration: none;
+    padding-left:2rem;
+    padding-right:2rem;
+  }
+  .nav-bar .left-links a {
+    color: #000; /* Black color for left links */
+    text-decoration: none;
+  }
+  
+  .nav-bar .right-links a {
+    color: #fff; /* White color for right links */
+    text-decoration: none;
+  }
+  
+    .nav-bar a.active {
+    font-weight: bold;
+  }
+  
+  .right-align {
+    float: right;
+  }
